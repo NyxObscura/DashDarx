@@ -1,0 +1,75 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* external fonts */
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-ExtraLight.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-ExtraLight.woff2') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Light.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Light.woff2') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Regular.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Regular.woff2') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Medium.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Medium.woff2') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-SemiBold.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-SemiBold.woff2') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Bold.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Bold.woff2') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-ExtraBold.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-ExtraBold.woff2') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Black.woff2') format('woff2'),
+    url('./assets/fonts/mona-sans/WOFF-2/MonaSans-Black.woff2') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
